@@ -56,3 +56,6 @@ Results Summary Market activity (volume and participant count) increases as sent
 Extreme Greed days exhibit the strongest average profitability, but the simplistic rule tested did not generalize to positive returns. A more complex model that can incorporate better training on multiple variable data should make better predicitions for the same
 
 A production strategy should therefore combine sentiment with microstructure and position context instead of relying on standalone sentiment thresholds.
+
+The link to the collab notebook is below:
+[Open in Google Colab](https://colab.research.google.com/drive/1-6KE6HzKYPYnqCQBa24EbIspXQ6dNpQU?usp=sharing)
