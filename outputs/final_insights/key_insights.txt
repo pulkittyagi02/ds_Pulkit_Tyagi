@@ -1,0 +1,16 @@
+CORRELATION INSIGHTS:
+- Unique Traders shows negative correlation (0.278) with market sentiment
+- Total Volume shows negative correlation (0.264) with market sentiment
+- Profit Ratio shows positive correlation (0.152) with market sentiment
+
+SENTIMENT-BASED PERFORMANCE:
+- Extreme Fear periods: Average PnL = 38.43
+- Extreme Greed periods: Average PnL = 56.74
+
+TRADING BEHAVIOR PATTERNS:
+- Higher trading volumes during fear periods (6744354 vs 1293523)
+
+STRATEGY PERFORMANCE:
+- Sentiment-based strategy return: -963009.85
+- Market benchmark return: 10254486.95
+- Strategy UNDERPERFORMED the market
